@@ -1,27 +1,21 @@
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biabeckmanf?igshid=YmMyMTA2M2Y=)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://beatrizbeckmanfalcao@gmail.com)
-[![Gmail](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@beatrizbeckman#0117)
+<img src="./assets/hero.svg" width="100%" alt="Área de trabalho retrô em rosa antigo e lavanda. Ana Beatriz Beckman Falcão, desenvolvedora full stack. Formação: Ciência da Computação na UFCG. Atuação: back-end, front-end e deploy. Contato: beatrizbeckmanfalcao@gmail.com. Ao lado, um player de música com a playlist lofi_pra_codar." />
 
-I'm Ana Beatriz Beckman Falcão, a computer student. I'm studying different languages ​​to expand my knowledge in graduation 🎓
+<br/><br/>
 
+<a href="mailto:beatrizbeckmanfalcao@gmail.com"><img src="./assets/btn-email.svg" height="48" alt="E-mail" /></a>
+<a href="https://www.instagram.com/biabeckmanf/"><img src="./assets/btn-instagram.svg" height="48" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/ana-beatriz-beckman-852322219/"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
 
-## Languages
-<div align="center" valign="top"><br>
-    <img align="left" alt="Python" height="60" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-     <img align="left" alt="JAVA" height="60" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="left" alt="C" height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="left" alt="html" height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    <img align="left" alt="CSS" height="50" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-    
-         
+<br/><br/>
 
-   
+<img src="./assets/stack.svg" width="100%" alt="Tecnologias da Ana Beatriz. Back-end: Python, Java, SQL e C. Front-end: JavaScript, React, HTML e CSS. Ferramentas: Git. Em estudo: Salesforce." />
+
+<!-- próxima etapa: gráfico de contribuições -->
+
+<br/><br/>
+
+<img src="./assets/footer.svg" width="100%" alt="obrigada pela visita. aberta a novas oportunidades." />
+
 </div>
-
-
-
-
-
-
-
